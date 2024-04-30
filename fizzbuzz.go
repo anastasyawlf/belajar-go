@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 
 	// Nilai maksimum bernilai n
-	fmt.Print("Type a number: ")
+	fmt.Print("Masukkan nilai maksimum (n): ")
 	var n int
 	fmt.Scanf("%d", &n)
 
